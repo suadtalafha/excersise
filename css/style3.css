@@ -1,0 +1,253 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+
+    background-color: white;
+    height: 160px;
+    margin-right: -10px;
+    margin-left: 10px;
+    width: 1400px;
+    margin-top: -21px;
+}
+
+header h1 {
+
+    font-size: 30px;
+    color: gray;
+    margin-left:41px;
+    padding-top: 50px; 
+    padding-right: 30px;
+
+}
+
+section{
+    background-color: white;
+    height: 2000px;
+    margin-top: -40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+body{
+    background-color: lightgray;
+    
+}
+nav ul{
+    height: 87px;
+    line-height: 80px;
+    margin-top: -29px;
+    margin-right: -27px;
+    border: dotted 2px lightgray;
+}
+
+nav ul li{
+    display: inline-block;
+margin-right: 80px;;
+}
+
+nav {
+    float: right;
+    margin-right: 85px;
+   
+    padding:30px;
+    margin-top: -47px;  
+     
+}
+nav ul li a{
+    text-decoration: none;
+    margin: 30px;
+    font-size: larger;
+    color :gray;
+    
+
+}
+nav ul li a:hover{
+    color: black;
+}
+nav li:hover{
+    border-bottom: 6px blue solid;
+}
+
+article:first-child img{
+  
+    
+    margin-left: 10px;
+    margin-top: -20px;
+    width: 1400px;}
+h2{
+   
+    display: inline-block;
+    border: thin;
+    text-align: center;
+    width: 409px;
+    height: 81px;
+    padding-top: 27px;
+    background-color: #CC9999;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    margin-top: -47px;
+    margin-left: 120px;
+}
+.div1{
+    float: left;
+    margin-left: 93px;
+    margin-top: 98px;
+    margin-right: 30px;
+}
+.div2{
+    float: left;
+    margin-top:98px;
+    margin-right: 30px;
+
+}
+.div3{
+    float: left;
+    margin-top:98px;
+    margin-right: 30px;
+}
+.div4{
+    float: left;
+    margin-top: 98px;
+    margin-right: 30px;
+
+}
+p{
+    text-align: center;
+    font-size: 19px;
+    color: rgb(92, 114, 238)
+}
+h3{
+    display: inline-block;
+    border: thin;
+    text-align: center;
+    width: 409px;
+    height: 81px;
+    padding-top: 27px;
+    background-color: #CC9999;
+    font-size: 25px;
+    color: white;
+    float: left;
+    margin-left: 66px;
+
+}
+.div5{
+    float: left;
+    border: solid 1px lightgray;
+    width: 550px;
+    height: 200px;
+    margin-top: 165px;
+    margin-left: -378px;
+    margin-right: 50px;
+}
+ div i{
+    font-size: 64px;
+    color: rgb(104, 151, 240);
+    
+    margin-left: 90px;
+    margin-top: 60px;
+}
+.one p{
+    float: left;
+    text-align: center;
+    width: -52px;
+  
+    margin-left: 175px;
+    margin-top: -61px;
+    font-size: 18px;
+    color: gray;
+}
+.div6{
+    float: left;
+    border: solid 1px lightgray;
+    width: 550px;
+    height: 200px;
+    margin-top: 165px;
+    margin-right: 50px;
+
+}
+.div7{
+    float: left;
+    border: solid 1px lightgray;
+    width: 550px;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 97px;
+    margin-right: 50px;
+
+    
+}
+.div8{
+    float: right;
+    border: solid 1px lightgray;
+    width: 550px;
+    height: 200px;
+    margin-top: 60px;
+    margin-right: 63px;
+    margin-left: 105px;
+    margin-top: -200px;
+}
+footer{
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 700px;
+    
+
+}
+h5{
+    display: inline-block;
+    border: thin;
+    text-align: center;
+    width: 409px;
+    height: 81px;
+    padding-top: 27px;
+    background-color: #CC9999;
+    font-size: 25px;
+    color: white;
+    float: left;
+    margin-left: 66px;
+}
+#a{
+    float: left;
+    margin-top: 185px;
+    margin-right: 20px;
+    margin-left: -375px;
+}
+#b{
+    float: left;
+    margin-top: 185px;
+    margin-right: 20px;
+    margin-left: -162px;
+}
+#c{
+    float: left;
+    margin-top: 185px;
+    margin-right: 20px;
+    margin-left: -25px;
+}
+#d{
+    float: left;
+    margin-top: 185px;
+    margin-right: 20px;
+    margin-left: -10px;}
+#e{
+    float: left;
+    margin-top: 185px;
+    margin-right: 20px;
+    margin-left: 20px;  
+}
+#f{
+    text-align: left;
+    font-size: 19px;
+    color: gray;
+    float: left;
+    margin-left: 117px;
+    width: 1024px;
+}
+#g{
+    float: right;
+    color:gray;
+}
